@@ -1,6 +1,6 @@
 ### Wallace Costa! 👋
 
-🔭 Developer at [@ReserveSystems](https://www.linkedin.com/company/reservesystems/)
+💻 Developer at [@ReserveSystems](https://www.linkedin.com/company/reservesystems/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallace%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallacecosta/)](https://www.linkedin.com/in/wallacecosta/) [![Gmail Badge](https://img.shields.io/badge/-wallacedacosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacedacosta@gmail.com)](mailto:wallacedacosta@gmail.com) [![Wallace Developer](https://img.shields.io/badge/https://wallacecosta.github.io-darkcyan?style=flat-square)](https://wallacecosta.github.io)
 

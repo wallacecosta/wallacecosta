@@ -1,16 +1,17 @@
-### Hi there 👋
+### Wallace Costa! 👋
 
-<!--
-**wallacecosta/wallacecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Developer at [@ReserveSystems](https://www.linkedin.com/company/reservesystems/)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Wallace%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallacecosta/)](https://www.linkedin.com/in/wallacecosta/) [![Gmail Badge](https://img.shields.io/badge/-wallacedacosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacedacosta@gmail.com)](mailto:wallacedacosta@gmail.com) [![Wallace Developer](https://img.shields.io/badge/https://wallacecosta.github.io-darkcyan?style=flat-square)](https://wallacecosta.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- I am a developer in constant search for best practices. I enjoy working in agile teams, focusing on defined goals and delivering value to the product.
+- ⚡ Knowledge: C #, Javascript, SQL, AngularJS, Git, Selenium WebDriver, SoapUI and Postman.
+
+____________
+
+<table>
+  <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallacecosta&count_private=true&show_icons=true&theme=dracula" /></td>
+  </tr>   
+</table>

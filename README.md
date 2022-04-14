@@ -5,7 +5,7 @@
 
 
 - I am a developer in constant search for best practices. I enjoy working in agile teams, focusing on defined goals and delivering value to the product.
-- ⚡ Knowledge: C #, Javascript, SQL, AngularJS, Git, Selenium WebDriver, SoapUI and Postman.
+- ⚡ Knowledge: C#, Javascript, SQL, Angular, Git, Selenium WebDriver, SoapUI and Postman.
 
 ____________
 

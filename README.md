@@ -21,6 +21,6 @@ ____________
 <table>
   <tr>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallacecosta&count_private=true&show_icons=true&theme=dracula" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacecosta&layout=compact&langs_count=7&theme=synthwave&hide=html"/></td> 
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacecosta&layout=compact&langs_count=7&theme=synthwave&hide=html,css"/></td> 
   </tr>
 </table>
